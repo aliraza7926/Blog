@@ -29,10 +29,10 @@ header h1 a{
     color:blue;
     text-decoration:none;
 }
-.post-entryp{
+.post-entry p{
     margin:0;
     font-weight:400;
 }
-.post-entryh2a:hover{
+.post-entry h2 a:hover{
     color:red;
 }
